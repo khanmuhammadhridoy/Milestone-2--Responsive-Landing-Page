@@ -130,3 +130,8 @@ footer .button {
 .copyright {
     font-size: 12px;
 }
+@media (max-width: 576px) {
+    .info-text {
+        text-align: center;
+    }
+}
