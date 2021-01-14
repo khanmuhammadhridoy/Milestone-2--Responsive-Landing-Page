@@ -38,7 +38,7 @@ nav ul li a:hover {
 }
 
 .top h1 {
-    font-weight: 900;
+    font-weight: 700;
     font-size: 3.5em;
 }
 
@@ -95,7 +95,7 @@ h3 {
 }
 
 .box h5 {
-    font-weight: 700;
+    font-weight: 900;
     font-size: 1.5em;
 }
 
@@ -112,6 +112,10 @@ h3 {
 
 .about-left img {
     width: 80px;
+}
+
+footer h5 {
+    font-weight: 700;
 }
 
 footer a {
